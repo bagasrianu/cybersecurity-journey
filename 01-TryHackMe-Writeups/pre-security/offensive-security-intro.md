@@ -8,8 +8,8 @@
 ---
 
 ## 1. Objective
-In this room, I simulated the role of an attacker to breach a fictional bank site called **FakeBank**.
-The goal was to discover unprotected hidden pages to transfer money into my account illegally. This lab demonstrated the concept of **"Security through Obscurity"** (attempting to secure a system simply by hiding it), proving it to be a very weak defense mechanism.
+In this room, I simulated the role of an attacker to breach a fictional bank site called FakeBank.
+The goal was to discover unprotected hidden pages to transfer money into my account illegally. This lab demonstrated the concept of "Security through Obscurity" (attempting to secure a system simply by hiding it), proving it to be a very weak defense mechanism.
 
 ---
 
