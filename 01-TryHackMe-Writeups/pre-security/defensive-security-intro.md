@@ -1,6 +1,6 @@
 # Defensive Security Intro - Writeup
 
-* **Room:** [Offensive Security Intro](https://tryhackme.com/room/defensivesecurityintro).
+* **Room:** [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro).
 * **Category:** Pre-Security
 * **Module:** Module 1 "Introduction to Cyber Security."
 * **Date:** 19 Jan 2026
