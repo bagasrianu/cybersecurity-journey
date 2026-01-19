@@ -32,7 +32,9 @@ I have designed a comprehensive learning curriculum that combines operational de
 
 | Date | Room Name | Path | Write-up Link |
 | :--- | :--- | :--- | :--- |
-| Jan 2026 | **Offensive Security Intro** | Pre-Security | [Read Report](./pre-security/offensive-security-intro.md) |
+| 19 Jan 2026 | **Offensive Security Intro** | Pre-Security | [Read Report](./pre-security/offensive-security-intro.md) |
+| 19 Jan 2026 | **Defensive Security Intro** | Pre-Security | [Read Report](./pre-security/defensive-security-intro.md) |
+| 19 Jan 2026 | **Careers in Cyber** | Pre-Security | [Read Report](./pre-security/careers-in-cyber.md) |
 
 ## 📝 Documentation Format
 Each lab report follows this structure:
