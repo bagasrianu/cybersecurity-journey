@@ -32,9 +32,7 @@ I have designed a comprehensive learning curriculum that combines operational de
 
 | Date | Room Name | Path | Write-up Link |
 | :--- | :--- | :--- | :--- |
-| Jan 2026 | Offensive Security Intro | Pre-Security | [Link] |
-| - | - | - | - |
-
+| Jan 2026 | **Offensive Security Intro** | Pre-Security | [Read Report](./Phase-1-PreSecurity/Offensive-Security-Intro.md) |
 ---
 
 ## 📝 Documentation Format
