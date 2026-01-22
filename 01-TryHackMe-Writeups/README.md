@@ -36,7 +36,7 @@ I have designed a comprehensive learning curriculum that combines operational de
 | 19 Jan 2026 | **Defensive Security Intro** | Pre-Security | [Read Report](./pre-security/defensive-security-intro.md) |
 | 19 Jan 2026 | **Careers in Cyber** | Pre-Security | [Read Report](./pre-security/careers-in-cyber.md) |
 | 20 Jan 2026 | **What is Networking?** | Pre-Security | [Read Report](./pre-security/what-is-networking.md) |
-| 19 Jan 2026 | **Intro to LAN** | Pre-Security | [Read Report](./pre-security/intro-to-lan.md) |
+| 20 Jan 2026 | **Intro to LAN** | Pre-Security | [Read Report](./pre-security/intro-to-lan.md) |
 
 ## 📝 Documentation Format
 Each lab report follows this structure:
