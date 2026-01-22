@@ -40,6 +40,8 @@ I have designed a comprehensive learning curriculum that combines operational de
 | 21 Jan 2026 | **OSI Model** | Pre-Security | [Read Report](./pre-security/osi-model.md) |
 | 21 Jan 2026 | **Packets & Frames** | Pre-Security | [Read Report](./pre-security/packetsframes.md) |
 | 21 Jan 2026 | **Extending Your Network** | Pre-Security | [Read Report](./pre-security/extending-your-network.md) |
+| 22 Jan 2026 | **DNS in Detail** | Pre-Security | [Read Report](./pre-security/dns-in-detail.md) |
+| 22 Jan 2026 | **HTTP in Detail** | Pre-Security | [Read Report](./pre-security/http-in-detail.md) |
 
 ## 📝 Documentation Format
 Each lab report follows this structure:
