@@ -37,6 +37,9 @@ I have designed a comprehensive learning curriculum that combines operational de
 | 19 Jan 2026 | **Careers in Cyber** | Pre-Security | [Read Report](./pre-security/careers-in-cyber.md) |
 | 20 Jan 2026 | **What is Networking?** | Pre-Security | [Read Report](./pre-security/what-is-networking.md) |
 | 20 Jan 2026 | **Intro to LAN** | Pre-Security | [Read Report](./pre-security/intro-to-lan.md) |
+| 21 Jan 2026 | **OSI Model** | Pre-Security | [Read Report](./pre-security/osi-model.md) |
+| 21 Jan 2026 | **Packets & Frames** | Pre-Security | [Read Report](./pre-security/packetsframes.md) |
+| 21 Jan 2026 | **Extending Your Network** | Pre-Security | [Read Report](./pre-security/extending-your-network.md) |
 
 ## 📝 Documentation Format
 Each lab report follows this structure:
