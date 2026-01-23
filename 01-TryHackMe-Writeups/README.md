@@ -42,6 +42,8 @@ I have designed a comprehensive learning curriculum that combines operational de
 | 21 Jan 2026 | **Extending Your Network** | Pre-Security | [Read Report](./pre-security/extending-your-network.md) |
 | 22 Jan 2026 | **DNS in Detail** | Pre-Security | [Read Report](./pre-security/dns-in-detail.md) |
 | 22 Jan 2026 | **HTTP in Detail** | Pre-Security | [Read Report](./pre-security/http-in-detail.md) |
+| 23 Jan 2026 | **How Websites Work** | Pre-Security | [Read Report](./pre-security/how-websites-work.md) |
+| 23 Jan 2026 | **Putting it All Together** | Pre-Security | [Read Report](./pre-security/putting-it-all-together.md) |
 
 ## 📝 Documentation Format
 Each lab report follows this structure:
