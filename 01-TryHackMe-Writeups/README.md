@@ -44,7 +44,8 @@ I have designed a comprehensive learning curriculum that combines operational de
 | 22 Jan 2026 | **HTTP in Detail** | Pre-Security | [Read Report](./pre-security/http-in-detail.md) |
 | 23 Jan 2026 | **How Websites Work** | Pre-Security | [Read Report](./pre-security/how-websites-work.md) |
 | 23 Jan 2026 | **Putting it All Together** | Pre-Security | [Read Report](./pre-security/putting-it-all-together.md) |
-| 24 Jan 2026 | **Linux Fundamental Part 1** | Pre-Security | [Read Report](./pre-security/linux-fundamental-part-1.md) |
+| 24 Jan 2026 | **Linux Fundamentals Part 1** | Pre-Security | [Read Report](./pre-security/linux-fundamentals-part-1.md) |
+| 28 Jan 2026 | **Linux Fundamentals Part 2** | Pre-Security | [Read Report](./pre-security/linux-fundamentals-part-2.md) |
 
 ## 📝 Documentation Format
 Each lab report follows this structure:
