@@ -1,6 +1,6 @@
 # Linux Fundamentals Part 1 - Writeup
 
-* **Room:** [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalpart1)
+* **Room:** [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 * **Category:** Pre-Security
 * **Module:** Module 4 "Linux Fundamentals."
 * **Date:** 24 Jan 2026
