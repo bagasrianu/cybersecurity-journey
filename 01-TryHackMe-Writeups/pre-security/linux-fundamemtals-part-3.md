@@ -3,7 +3,7 @@
 * **Room:** [Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 * **Category:** Pre-Security
 * **Module:** Module 4 "Linux Fundamentals"
-* **Date:** 29 January 2026
+* **Date:** 29 Jan 2026
 
 ---
 
