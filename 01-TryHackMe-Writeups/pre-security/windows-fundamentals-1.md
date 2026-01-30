@@ -23,10 +23,6 @@ I explored the history of Windows versions and customized the desktop interface 
 * **Desktop Configuration**: I practiced configuring the Taskbar by setting the Search Box to **Hidden**, ensuring the **Task View button** was visible, and identifying the **Action Center** in the Notification Area.
 * **Flag Found (Encryption)**: **`BitLocker`**
 
-<img width="651" alt="Windows Editions" src="image_8cacdb.jpg" />
-
-<img width="651" alt="Desktop Configuration" src="image_8ca486.png" />
-
 ---
 
 ## 3. File System & Permissions
